@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 Load the data into your preferred environment (e.g., Jupyter Notebook, Python script, R environment).
 
-###Repository Structure
+## Repository Structure
 ```bash
 Breadcrumbs_Analysis_Economy_CRC/
 ├─ data/
