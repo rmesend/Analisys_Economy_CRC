@@ -84,16 +84,17 @@ Breadcrumbs_Analysis_Economy_CRC/
 Data Preprocessing: Use data_preprocessing.py to clean and merge the raw data.
 Exploratory Analysis: Run exploratory.ipynb to get an overview of the data distribution and initial insights.
 Advanced Analysis: Use analysis.ipynb for more in-depth statistical and econometric examinations, such as time-series analysis or econometric modeling.
-4. ##Contributing
+
+4. ## Contributing
 We welcome contributions! To contribute:
 
-Fork the repository.
+   1. Fork the repository.
+   2. Create a new branch for your feature or bugfix.
+   3. Submit a pull request with a clear explanation of your changes.
 
-Create a new branch for your feature or bugfix.
-Submit a pull request with a clear explanation of your changes.
-License
+## License
 
-## This project is licensed under the MIT License.
+ This project is licensed under the MIT License.
 
 ## Contact
 
