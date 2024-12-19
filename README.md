@@ -54,14 +54,15 @@ The primary fields in the dataset are as follows:
 
 
 
-2. **Install dependencies (if any are listed, e.g., in requirements.txt)**:
+2. ##Install dependencies (if any are listed, e.g., in requirements.txt):
 
 ```bash
 pip install -r requirements.txt
 ```
 
 Load the data into your preferred environment (e.g., Jupyter Notebook, Python script, R environment).
-Repository Structure
+
+###Repository Structure
 ```bash
 Breadcrumbs_Analysis_Economy_CRC/
 ├─ data/
@@ -78,14 +79,14 @@ Breadcrumbs_Analysis_Economy_CRC/
 └─ LICENSE
 ```
 
-3. **Usage**
+3. ##Usage 
 
 Data Preprocessing: Use data_preprocessing.py to clean and merge the raw data.
 Exploratory Analysis: Run exploratory.ipynb to get an overview of the data distribution and initial insights.
 Advanced Analysis: Use analysis.ipynb for more in-depth statistical and econometric examinations, such as time-series analysis or econometric modeling.
 Contributing
 
-4. **We welcome contributions! To contribute:**
+4. ##We welcome contributions! To contribute:
 
 Fork the repository.
 
@@ -95,6 +96,6 @@ License
 
 This project is licensed under the MIT License.
 
-** Contact**
+## Contact
 
-For questions, suggestions, or collaborations, feel free to open an issue or contact the maintainers at mesendelgado@gmail.com.
+For questions, suggestions, or collaborations, feel free to open an issue or contact the maintainers at `mesendelgado@gmail.com`
